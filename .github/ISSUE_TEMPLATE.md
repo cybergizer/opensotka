@@ -2,9 +2,9 @@
 
 @username
 
-### Link to Your Pull Request
+### Link to Your Issue
 
-https://github.com/cybergizer/<project-name>/pulls/1
+https://github.com/cybergizer/<project-name>/issues/<id>
 
 ### Short Description
 

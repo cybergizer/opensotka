@@ -4,7 +4,7 @@
 
 ### Link to Your Pull Request
 
-https://github.com/cybergizer/<project-name>/pulls/1
+https://github.com/cybergizer/<project-name>/pulls/<id>
 
 ### Short Description
 
