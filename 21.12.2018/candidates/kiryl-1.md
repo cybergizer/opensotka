@@ -7,7 +7,9 @@
 I am pushing right to master 8)
 
 1. https://github.com/tryshopr/shopr-example
+
 1.1 Live example http://shopr-example.herokuapp.com/
+
 2. https://github.com/tryshopr/shopr
 
 ### Short Description
